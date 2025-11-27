@@ -1,3 +1,4 @@
+#day 6
 import logging
 import os
 import json
